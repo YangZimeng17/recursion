@@ -27,7 +27,3 @@ test_lists = [[],[1],[0],[1,1],[1,2],[1,1,2],[1,2,3],[1,1,2,3,5,8,13],[5,8,13],[
 
 for e in test_lists:
     print(is_fib(e))
-    
-# test message
-# test message from github desktop
-# next test message
